@@ -1,0 +1,103 @@
+[
+  {
+    "id": 0,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/103px-Wikipedia-logo-v2.svg.png",
+    "nsTitle": "Wiki",
+    "endpoint": "/wiki",
+    "rooms": [
+      {
+        "roomId": 0,
+        "roomTitle": "New Articles",
+        "namespace": "Wiki",
+        "privateRoom": false,
+        "history": []
+      },
+      {
+        "roomId": 1,
+        "roomTitle": "Editors",
+        "namespace": "Wiki",
+        "privateRoom": true,
+        "history": []
+      },
+      {
+        "roomId": 2,
+        "roomTitle": "Other",
+        "namespace": "Wiki",
+        "privateRoom": false,
+        "history": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "img": "https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png",
+    "nsTitle": "Mozilla",
+    "endpoint": "/mozilla",
+    "rooms": [
+      {
+        "roomId": 0,
+        "roomTitle": "Firefox",
+        "namespace": "Mozilla",
+        "privateRoom": false,
+        "history": [ ]
+      },
+      {
+        "roomId": 1,
+        "roomTitle": "SeaMonkey",
+        "namespace": "Mozilla",
+        "privateRoom": false,
+        "history": []
+      },
+      {
+        "roomId": 2,
+        "roomTitle": "SpiderMonkey",
+        "namespace": "Mozilla",
+        "privateRoom": false,
+        "history": []
+      },
+      {
+        "roomId": 3,
+        "roomTitle": "Rust",
+        "namespace": "Mozilla",
+        "privateRoom": false,
+        "history": [  ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png",
+    "nsTitle": "Linux",
+    "endpoint": "/linux",
+    "rooms": [
+      {
+        "roomId": 0,
+        "roomTitle": "Debian",
+        "namespace": "Linux",
+        "privateRoom": false,
+        "history": []
+      },
+      {
+        "roomId": 1,
+        "roomTitle": "Red Hat",
+        "namespace": "Linux",
+        "privateRoom": false,
+        "history": [  ]
+      },
+      {
+        "roomId": 2,
+        "roomTitle": "MacOs",
+        "namespace": "Linux",
+        "privateRoom": false,
+        "history": [  ]
+      },
+      {
+        "roomId": 3,
+        "roomTitle": "Kernal Development",
+        "namespace": "Linux",
+        "privateRoom": false,
+        "history": []
+      }
+    ]
+  }
+]
